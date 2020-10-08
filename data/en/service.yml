@@ -1,0 +1,62 @@
+########################### about service #############################
+about:
+  enable : true
+  title : "About the company"
+  content : "Aqua Permits is unique firm offering lakefront design of boat docks, landscaping, shoreline stabilization and modification, environmental consulting, site plan drawings and municipal permitting."
+  image : "images/company/company-group-pic.jpg"
+
+
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "Dock Design"
+      icon : "ion-map"
+      color : "primary"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      
+    # featured service item loop
+    - name : "Engineered Site Plan Drawings"
+      icon : "ion-clipboard"
+      color : "primary-dark"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      
+    # featured service item loop
+    - name : "Permitting"
+      icon : "ion-briefcase"
+      color : "primary-darker"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+
+      
+############################# Service ###############################
+service:
+  enable : true
+  title : "Our Services"
+  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
+          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  service_item:
+    # service item loop
+    - icon : ion-briefcase #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Permitting
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    - icon : ion-pinpoint #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Shoreline & Landscape Design
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    - icon : ion-map #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Dock Design
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+# service item loop
+    - icon : ion-clipboard #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Engineered Site Plan Drawings
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+   
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"
