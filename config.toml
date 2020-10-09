@@ -187,16 +187,11 @@ URL = "service"
 weight = 3
 
 [[Languages.en.menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[Languages.en.menu.footer]]
 name = "FAQ"
 URL = "faq"
-weight = 5
+weight = 4
 
 [[Languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 5
