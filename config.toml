@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://aquapermits-forestry.netlify.app/"
+baseURL = "https://aquapermits.netlify.app/"
 title = "Aqua Permits | Permitting and Design Agency Lake Austin Texas"
 theme = "airspace"
 # post pagination
