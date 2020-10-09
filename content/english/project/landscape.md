@@ -1,26 +1,26 @@
 ---
 title: "Landscape Project"
-description: "this is meta description"
+description: "Landscape Design and services"
 draft: false
 image : "images/portfolio/work3.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "Landscape"
 information:
   - label : "Client"
-    info : "Jannie Kelonsky"
+    info : "Doug Downer"
   - label : "What We Did"
-    info : "Website Redesign"
+    info : "Landscape Redesign"
   - label : "Tools Used"
     info : "Photoshop,Illustrator"
   - label : "Completed on"
-    info : "17th March 2014"
+    info : "17th March 202"
   - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
+    info : "Grass / Trees / Curbs"
   - label : "Client"
-    info : "Jannie Kelonsky"
+    info : "DOug Kelonsky"
 ---
 
-## Behance Website Redesign
+## Doug Downers Landscape Project
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate

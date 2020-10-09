@@ -1,28 +1,21 @@
 ---
 title: "Enviromental Consulting"
-description: "this is meta description"
+description: "Our Consulting Practice"
 draft: false
 image : "images/portfolio/work5.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "Consulting"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "Clients"
+    info : "City Of Austin. City of Buda"
   - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+    info : "Various"
+ 
 ---
 
-## Behance Website Redesign
+## Our Enviromental Consulting Practice
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
+After 20 years with the city of Austin Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
 at provident soluta consequatur.
 

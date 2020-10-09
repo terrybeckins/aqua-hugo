@@ -1,6 +1,6 @@
 ---
 title: "Dock Design Job"
-description: "this is dock design job we did description"
+description: "Lake Austin Dock Design"
 draft: false
 image : "images/portfolio/work1.jpg"
 bg_image: "images/featue-bg.jpg"
@@ -20,7 +20,7 @@ information:
     info : "Jannie Kelonsky"
 ---
 
-## Big Dock Redesign
+## Lake Austin Dock Redesign
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate

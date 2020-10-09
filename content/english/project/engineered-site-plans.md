@@ -1,26 +1,26 @@
 ---
 title: "Engineered Site Plans"
-description: "this is meta description"
+description: "Exciting Project Details"
 draft: false
-image : "images/portfolio/work5.jpg"
+image : "images/portfolio/work6.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "Siteplans"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
   - label : "What We Did"
-    info : "Website Redesign"
+    info : "Engineered Site Plans"
   - label : "Tools Used"
-    info : "Photoshop,Illustrator"
+    info : "CoA,Illustrator"
   - label : "Completed on"
-    info : "17th March 2014"
+    info : "17th March 2020"
   - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
+    info : "People / Cash / Concrete"
   - label : "Client"
     info : "Jannie Kelonsky"
 ---
 
-## Behance Website Redesign
+## Engineered Site Plan for Behancement Inc.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
