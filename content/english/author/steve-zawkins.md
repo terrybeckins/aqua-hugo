@@ -1,5 +1,5 @@
 ---
-title: "Mark Dinn"
+title: "Steve Zawkins"
 email: "email2@example.org"
 bg_image: "images/featue-bg.jpg"
 draft: false

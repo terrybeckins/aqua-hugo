@@ -1,12 +1,12 @@
 ---
 title: "Permits 101 - How to get a permit for my dock on Lake Austin"
 date: 2020-09-24T11:07:10+06:00
-author: John Doe
+author: Steve Zawkins
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Permits"]
 tags: ["permits","lake austin"]
-description: "this is meta description"
+description: "Our Team gets it done right on Lake Austin!"
 draft: false
 type: "post"
 ---

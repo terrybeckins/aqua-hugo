@@ -1,12 +1,12 @@
 ---
 title: "Common Mistakes when building a new dock"
 date: 2020-08-24T11:07:10+06:00
-author: John Doe
+author: Patrick Schramm
 image : "images/blog/blog-post-4.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Common Mistakes"]
 tags: ["mistakes","dock"]
-description: "this is meta description"
+description: "Careful with that dock man!"
 draft: false
 type: "post"
 ---

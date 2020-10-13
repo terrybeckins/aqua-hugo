@@ -10,7 +10,7 @@ banner:
   content : "We are unique firm offering lakefront design of boat docks, landscaping, shoreline stabilization and modification, environmental consulting, site plan drawings and municipal permitting."
   button:
     enable : true
-    label : "Discover your Project"
+    label : "Dreaming about dock?"
     link : "project"
 
 ############################# About #################################
@@ -19,13 +19,13 @@ about:
   title : "About Aqua Permits"
   description : "Aqua Permits is unique firm offering lakefront design of boat docks, landscaping, shoreline stabilization and modification, environmental consulting, site plan drawings and municipal permitting."
   content : "Full Service Permitting <br/> & Design Agency We offer dock design, engineered site plan drawings, permitting, shoreline & landscape design.We offer dock design, engineered site plan drawings, permitting, shoreline & landscape design.We offer dock design, engineered site plan drawings, permitting, shoreline & landscape design."
-  image : "images/wrapper-img.png"
+  image : "images/wrapper-img.svg"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
+  bg_image : "images/feature-bg.svg"
   title : "WE BELIEVE IN GREAT IDEAS"
   content : "
   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
@@ -38,7 +38,7 @@ portfolio:
   "
   button:
     enable : true
-    label : "View Works"
+    label : "Check out our work"
     link : "project"
 
 
@@ -53,10 +53,10 @@ cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
   title : "We design delightful permit and lake experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  content : "Let's talk. See what we do<br> and what we’ve achieved for other clients.  Meet our highly experienced team."
   button:
     enable : true
-    label : "Tell Us Your Story"
+    label : "Do you dream about Docks?"
     link : "contact"
 
 ############################# Funfacts ###############################
