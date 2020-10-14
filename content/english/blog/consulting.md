@@ -3,7 +3,7 @@ title: "HELP! I need an environmental consulant on Lake Travis"
 date: 2020-09-24T11:07:10+06:00
 author: Terry Justincase
 image : "images/blog/blog-post-5.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/feature-bg.jpg"
 categories: ["Consulting Services"]
 tags: ["dock","consulting","help","lake travis"]
 description: "Let us be your Lake Austin Design and Permit team"

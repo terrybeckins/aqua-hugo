@@ -3,7 +3,7 @@ title: "Permits Project"
 description: "this is meta description"
 draft: false
 image : "images/portfolio/work2.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/feature-bg.jpg"
 category: "Permits"
 information:
   - label : "Client"

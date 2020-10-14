@@ -3,7 +3,7 @@ title: "Landscape Project"
 description: "Landscape Design and services"
 draft: false
 image : "images/portfolio/work3.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/feature-bg.jpg"
 category: "Landscape"
 information:
   - label : "Client"

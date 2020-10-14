@@ -3,7 +3,7 @@ title: "Dock Design Job"
 description: "Lake Austin Dock Design"
 draft: false
 image : "images/portfolio/work1.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/feature-bg.jpg"
 category: "Docks"
 information:
   - label : "Client"

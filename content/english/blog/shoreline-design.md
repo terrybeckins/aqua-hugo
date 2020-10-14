@@ -3,7 +3,7 @@ title: "Shoreline Design tips for Summer 2020"
 date: 2020-09-24T11:07:10+06:00
 author: Steve Zawkins
 image : "images/blog/blog-post-6.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/feature-bg.jpg"
 categories: ["Shoreline Design"]
 tags: ["tips","shioreline","design","summer"]
 description: "Tips from our Expert Team"
