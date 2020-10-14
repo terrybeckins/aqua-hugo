@@ -141,7 +141,7 @@ URL = "service"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "Blog"
+name = "Advice"
 URL = "blog"
 weight = 5
 
