@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
+  bg_image : "images/slider-bg.svg"
   bg_overlay : true
 
 
@@ -51,7 +51,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/call-to-action-bg.jpg"
+  bg_image : "images/call-to-action-bg.svg"
   title : "We design delightful permit and lake experiences."
   content : "Let's talk. See what we do<br> and what we’ve achieved for other clients.  Meet our highly experienced team."
   button:
