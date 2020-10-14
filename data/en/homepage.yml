@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.svg"
+  bg_image : "images/slider-bg.jpg"
   bg_overlay : true
 
 
@@ -89,18 +89,18 @@ funfacts:
   testimonial_slider:
     # testimonial item loop
     - name : "Steve Eduawkins"
-      image : "images/clients/avater-1.jpg"
+      image : "images/clients/avater-1.svg"
       designation : "CEO-Lake Bats"
       content : "This Company created a dock and shoreline design with innovative ideas and unique elements that make us stand out from the crowd."
                 
     # testimonial item loop
     - name : "Jeph Martin"
-      image : "images/clients/avater-2.jpg"
+      image : "images/clients/avater-2.svg"
       designation : "Lake Austin Dad"
       content : "My kind of folks to work with."
                 
     # testimonial item loop
     - name : "Rose Rio"
-      image : "images/clients/avater-3.jpg"
+      image : "images/clients/avater-3.svg"
       designation : "Retired Merchant Marine"
       content : "I love my engineered site plan and landscape design."
