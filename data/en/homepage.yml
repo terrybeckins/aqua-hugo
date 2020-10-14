@@ -25,7 +25,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/feature-bg.svg"
+  bg_image : "images/feature-bg.jpg"
   title : "WE BELIEVE IN GREAT IDEAS"
   content : "
   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
@@ -51,7 +51,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/call-to-action-bg.svg"
+  bg_image : "images/call-to-action-bg.jpg"
   title : "We design delightful permit and lake experiences."
   content : "Let's talk. See what we do<br> and what we’ve achieved for other clients.  Meet our highly experienced team."
   button:
