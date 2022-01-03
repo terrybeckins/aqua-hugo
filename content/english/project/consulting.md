@@ -15,9 +15,7 @@ information:
 
 ## Our Enviromental Consulting Practice
 
-After 20 years with the city of Austin Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+After 20 years with the city of Austin Stephen Hawkins ventured out into the deep waters of Lake Austin on his own.  
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
 odit. A facere tempore soluta laborum.
